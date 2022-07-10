@@ -18,7 +18,7 @@ The project is a REST API of a dental clinic, where you can add, delete, update 
 * Swagger UI - Documentation
 
 # How does it work?
-Actually, much better if you just start the application and navigate to http://localhost:8080/swagger-ui/. There you'll find a nice API documentation thanks to Swagger.
+Actually, much better if you just start the application and navigate to [http://localhost:8080/swagger-ui/](http://localhost:8080/swagger-ui/index.html#/). There you'll find a nice API documentation thanks to Swagger.
 ![swagger_info](https://user-images.githubusercontent.com/86891538/178162702-8cb69ef2-d9c9-4760-8e80-1e160801012c.png)
 
 # Endpoints
