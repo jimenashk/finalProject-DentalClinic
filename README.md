@@ -5,17 +5,17 @@ Description
 The project is a REST API of a dental clinic, where you can add, delete, update or list patients, dentists and appointments.
 
 # Project technologies and tools
--Spring Boot
--MVC pattern
--H2 DB
--ORM
--Spring data - Hibernate
--HQL
--Exception handling with Logging
--Spring-security
--Endpoints security based on JWT tokens
--Unit tests - Junit 5
--Swagger UI - Documentation
+* Spring Boot
+* MVC pattern
+* H2 DB
+* ORM
+* Spring data - Hibernate
+* HQL
+* Exception handling with Logging
+* Spring-security
+* Endpoints security based on JWT tokens
+* Unit tests - Junit 5
+* Swagger UI - Documentation
 
 # How does it work?
 Actually, much better if you just start the application and navigate to http://localhost:8080/swagger-ui/. There you'll find a nice API documentation thanks to Swagger.
