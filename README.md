@@ -27,10 +27,10 @@ Once we have our application running, by default the application starts on port 
 
 # Roles
 To log in as an administrator, we must log in with the credentials: 
--Username: admin@gmail.com, password: password 
+- Username: admin@gmail.com, password: password 
 We can manage all dentists, patients and appointments.
 To enter as a user, we must enter with the credentials: 
--Username: user@gmail.com, password : password2 
+- Username: user@gmail.com, password : password2 
 We can only access to modify the shifts.
 
 # Index view
