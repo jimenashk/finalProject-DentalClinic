@@ -1,4 +1,4 @@
-# finalProject-DentalClinic
+# Final Project: Dental Clinic
 Final project: Dental clinic for BackEnd-1 (ApiREST) CTD
 
 # Description
