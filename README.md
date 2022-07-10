@@ -22,7 +22,7 @@ Actually, much better if you just start the application and navigate to [http://
 ![swagger_info](https://user-images.githubusercontent.com/86891538/178162702-8cb69ef2-d9c9-4760-8e80-1e160801012c.png)
 
 # Endpoints
-Once we have our application running, by default the application starts on port 8080, we enter from the web to http://localhost:8080.
+Once we have our application running, by default the application starts on port 8080, we enter from the web to http://localhost:8080/login .
 ![login](https://user-images.githubusercontent.com/86891538/178162723-cd7b700e-db6e-4f7f-8cf7-ac1dc89020b7.png)
 
 # Roles
