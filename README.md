@@ -26,12 +26,12 @@ Once we have our application running, by default the application starts on port 
 ![login](https://user-images.githubusercontent.com/86891538/178162723-cd7b700e-db6e-4f7f-8cf7-ac1dc89020b7.png)
 
 # Roles
-To log in as an administrator, we must log in with the credentials: 
-- Username: admin@gmail.com, password: password 
-We can manage all dentists, patients and appointments.
-To enter as a user, we must enter with the credentials: 
-- Username: user@gmail.com, password : password2 
-We can only access to modify the shifts.
+1. To log in as an administrator, we must log in with the credentials: 
+* Username: admin@gmail.com, password: password 
+* We can manage all dentists, patients and appointments.
+2. To enter as a user, we must enter with the credentials: 
+* Username: user@gmail.com, password : password2 
+* We can only access to modify the shifts.
 
 # Index view
 ![index_clinic](https://user-images.githubusercontent.com/86891538/178162776-06ab859d-d2d4-4c07-b397-4f0bbcbd2e71.png)
