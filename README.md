@@ -1,7 +1,7 @@
 # finalProject-DentalClinic
 Final project: Dental clinic for BackEnd-1 (ApiREST) CTD
 
-Description
+# Description
 The project is a REST API of a dental clinic, where you can add, delete, update or list patients, dentists and appointments.
 
 # Project technologies and tools
