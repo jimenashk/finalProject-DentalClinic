@@ -33,7 +33,7 @@ Once we have our application running, by default the application starts on port 
 2. To enter as a user, we must enter with the credentials: 
 * Username: user@gmail.com
 * Password : password2 
-* We can only access to modify the shifts.
+* We can only access to modify the appointments.
 
 # Index view
 ![index_clinic](https://user-images.githubusercontent.com/86891538/178162776-06ab859d-d2d4-4c07-b397-4f0bbcbd2e71.png)
